@@ -1,2 +1,2 @@
 # pcaPython
- Processo de Construção de Algoritmo de Python
+ Processo de Construção de Algoritmo em Python
